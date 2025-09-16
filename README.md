@@ -2,14 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Tento projekt je jednoduchá **Java aplikace**, která slouží jako překladač.  
-Je určený pro školní účely a demonstraci základních principů překladu a práce s jazykem.
+Tento projekt je **Java aplikace**, která slouží jako překladač.  
+Je určený pro školní účely.
 
 ## ✨ Funkce
 - Zpracování textu zadaného uživatelem
 - Překlad mezi vybranými jazyky (např. EN ↔ CZ)
 - Konzolová aplikace s možností testování přes `Test.java`
 - Vygenerovaná **JavaDoc dokumentace** (ve složce `docs/`)
+- Možnost ukládání překladů souborů
+- Napojení na Deepl pro **AI překládání textu**
 
 ## 📂 Struktura projektu
 - `src/` – zdrojové kódy v Javě
