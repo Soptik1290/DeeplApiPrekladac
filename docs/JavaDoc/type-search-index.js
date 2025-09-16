@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prekladac","l":"Prekladac.Jazyk"},{"p":"prekladac","l":"Prekladac"}];updateSearchResults();
